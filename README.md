@@ -7,7 +7,9 @@ The product detail page is a crucial component of any e-commerce website. It pro
 - JavaScript
 
 ## Features
-- Price
+- Price of the Product
+- Product Images
+- Color & Size Available
 - Add to Cart & Buy now
 - About Product
 - Share Product
