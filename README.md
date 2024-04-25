@@ -17,6 +17,9 @@ The product detail page is a crucial component of any e-commerce website. It pro
 ## Screenshots
 <img width="1429" alt="Screenshot-Product" src="https://github.com/pg-29/Product-Details-Page/assets/122177879/945486db-3872-4ad3-a4de-63f677400735">
 
+## Product-Details-Page - Video
+https://github.com/pg-29/Product-Details-Page/assets/122177879/bffbe346-bbdf-4f42-ba5e-59828744ad7c
 
-https://github.com/pg-29/Product-Details-Page/assets/122177879/bd4057d0-fd93-4ffb-be56-362b2c5176f0
+
+
 
