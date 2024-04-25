@@ -1,4 +1,4 @@
-# Product-Details-Page
+# Product Details Page
 The product detail page is a crucial component of any e-commerce website. It provides detailed information about a specific product, helping users make informed purchasing decisions.
 
 ## Technologies Used
